@@ -1,0 +1,2 @@
+https://stackabuse.com/reading-files-with-python/
+https://www.w3schools.com/python/python_file_write.asp
